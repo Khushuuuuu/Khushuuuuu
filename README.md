@@ -1,4 +1,4 @@
-hi khushboo here/n
-Delhi,India/n
-19 /n
+hi khushboo here
+Delhi,India
+(19) 
 just starting...
